@@ -56,6 +56,8 @@ end halfAdder_tb;
 
 architecture test_bench of halfAdder_tb is 
 
+
+
 	-- Component Declaration	
   component halfAdder is
 	port(
